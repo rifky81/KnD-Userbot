@@ -25,7 +25,7 @@
     serta mengelola secara efisien.
 /**
 ```
-## owner:@rifkyyyyyyyyyyyyyyyy
+## owner: @rifkyyyyyyyyyyyyyyyy
 
 
 ## Hasilkan Sesi String
