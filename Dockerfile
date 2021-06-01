@@ -4,7 +4,7 @@ FROM ximfine/xproject:buster
 #
 # Clone repo and prepare working directory
 #
-RUN git clone -b pocong https://github.com/rifky81/KnD-Userbot /root/userbot
+RUN git clone -b main https://github.com/rifky81/KnD-Userbot /root/userbot
 RUN mkdir /root/userbot/.bin
 RUN pip install --upgrade pip setuptools
 WORKDIR /root/userbot
