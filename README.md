@@ -1,4 +1,4 @@
-<a href="https://cooltext.com"><img src="https://images.cooltext.com/5521639.gif" width="366" height="89" alt="KnD - Userbot" /></a>
+<a href="https://cooltext.com"><img src="https://images.cooltext.com/5532994.png" width="464" height="140" alt="KnD-userbot" /></a>
 
 <p align="center">
     <img alt="KND VERSION" src="https://img.shields.io/badge/KND%20VERSION-4.+-brightgreen"/>
