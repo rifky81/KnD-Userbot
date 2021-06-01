@@ -1,12 +1,12 @@
-<a href="https://cooltext.com"><img src="https://images.cooltext.com/5521639.gif" width="366" height="89" alt="Pocong - Userbot" /></a>
+<a href="https://cooltext.com"><img src="https://images.cooltext.com/5521639.gif" width="366" height="89" alt="KnD - Userbot" /></a>
 
 <p align="center">
-    <img alt="POCONG VERSION" src="https://img.shields.io/badge/POCONG%20VERSION-4.+-brightgreen"/>
+    <img alt="KND VERSION" src="https://img.shields.io/badge/KND%20VERSION-4.+-brightgreen"/>
     <img alt="BUILD IN" src="https://img.shields.io/badge/BUILD%20-Last Day-brightgreen"/>
            <a href="https://travis-ci.com/poocong/Pocong-Userbot.svg?branch=pocong" /></a>
-    <a href="https://github.com/rifky81/KnD-Userbot/network/members"> <img src="https://img.shields.io/github/forks/poocong/Pocong-Userbot?logo=github&style=for-the-badge" /></a>
-           <a href="https://app.codacy.com/gh/poocong/Pocong-Userbot/dashboard"> <img src="https://img.shields.io/codacy/grade/a8f0747a964e4712818a28d2a7f4edd3?color=blue&logo=codacy&style=for-the-badge" alt="Codacy" /></a>
-    <a href="https://github.com/rifky81/KnD-Userbot"> <img src="https://img.shields.io/github/repo-size/poocong/Pocong-Userbot?logo=github&style=for-the-badge" /></a>
+    <a href="https://github.com/rifky81/KnD-Userbot/network/members"> <img src="https://img.shields.io/github/forks/rifky81/KnD-Userbot?logo=github&style=for-the-badge" /></a>
+           <a href="https://app.codacy.com/gh/rifky81/KnD-Userbot/dashboard"> <img src="https://img.shields.io/codacy/grade/a8f0747a964e4712818a28d2a7f4edd3?color=blue&logo=codacy&style=for-the-badge" alt="Codacy" /></a>
+    <a href="https://github.com/rifky81/KnD-Userbot"> <img src="https://img.shields.io/github/repo-size/rifky81/KnD-Userbot?logo=github&style=for-the-badge" /></a>
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?label=telethon&logo=pypi&logoColor=white&style=for-the-badge" /></a>
     <img alt="PYTHON" src="https://img.shields.io/badge/PYTHON-v3.9.0-blue?style=for-the-badge&logo=appveyor"/>
    </p>
@@ -58,7 +58,7 @@ wget https://raw.githubusercontent.com/poocong/Pocong-Userbot/pocong/Getstring.s
 ## <p align="center">Metode Deploy Ke Heroku</p>
 
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/rifky81/KnD-Userbot/tree/pocong"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=flat&logo=heroku" width="210" height="34.45" /></a></p>
+<p align="center"><a href="https://heroku.com/deploy"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=flat&logo=heroku" width="210" height="34.45" /></a></p>
 
 <br>
 </p>
